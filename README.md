@@ -1,2 +1,0 @@
-# NearbyMoments
-A react webapp
