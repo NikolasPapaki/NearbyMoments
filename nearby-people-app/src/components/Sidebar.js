@@ -18,11 +18,11 @@ const Sidebar = () => {
         <h3>Nearby People</h3>
       </div>
       <ul>
-        <li>
-          <Link to="/map">Map</Link>
+         <li>
+          <Link to="/home">Home</Link>
         </li>
         <li>
-          <Link to="/list">List</Link>
+          <Link to="/NearbyPeople">Nearby People</Link>
         </li>
         <li>
           <Link to="/profile">Profile</Link>

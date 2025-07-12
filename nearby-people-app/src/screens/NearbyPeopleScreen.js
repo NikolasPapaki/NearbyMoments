@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../components/Layout';
 
-const MapScreen = () => {
+const NearbyPeopleScreen = () => {
   return (
     <Layout>
       <div>
@@ -12,4 +12,4 @@ const MapScreen = () => {
   );
 };
 
-export default MapScreen;
+export default NearbyPeopleScreen;
