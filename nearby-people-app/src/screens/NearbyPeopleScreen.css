@@ -1,0 +1,22 @@
+.nearby-people-container {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 32px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  max-width: 600px;
+  margin: 40px auto;
+}
+
+.nearby-people-title {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.nearby-people-description {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 24px;
+  text-align: center;
+}

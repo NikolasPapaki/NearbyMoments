@@ -14,18 +14,15 @@ const Sidebar = () => {
       <button onClick={toggleSidebar} className="toggle-btn">
         {isOpen ? 'Close' : 'Open'}
       </button>
-      <div className="logo">
-        <h3>Nearby People</h3>
-      </div>
       <ul>
-         <li>
-          <Link to="/home">Home</Link>
-        </li>
         <li>
           <Link to="/NearbyPeople">Nearby People</Link>
         </li>
         <li>
           <Link to="/profile">Profile</Link>
+        </li>
+        <li>
+          <Link to="/settings">Settings</Link>
         </li>
       </ul>
     </div>
